@@ -1,6 +1,6 @@
 # llm-fine-tuning-pricer
 
-This repo contains the code for fine-tuning LLM to predict the price for Amazon items in a curated datset from Amazon reviews dataset. Shout out to Ed Donner and his dedication to the LLM engineering course with amazing projects. This repo aims for a clean implementation related to the LLM fine-tuning portion of the class projects. The code for the entire class (mostly jupyter notebooks) can be found [here](https://github.com/ed-donner/llm_engineering).
+This repo contains the code for fine-tuning LLM to predict the price for Amazon items in a curated datset from Amazon reviews dataset. Shout out to Ed Donner and his dedication to the [LLM engineering course](https://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models/?srsltid=AfmBOopPit1vBlOvCfsp9V4Qk9iFH-3uYEEYgSychfy89DmYpj9V6iWX) with amazing projects. This repo aims for a clean implementation related to the LLM fine-tuning portion of the class projects. The code for the entire class (mostly jupyter notebooks) can be found [here](https://github.com/ed-donner/llm_engineering).
 
 ![LLM Fine-tuning Pipeline](imgs/llm-finetune.png)
 
